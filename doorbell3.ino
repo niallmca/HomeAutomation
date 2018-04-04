@@ -30,7 +30,7 @@ void setup() {
     }
 
     WiFi.mode(WIFI_STA);
-    WiFiMulti.addAP("TP-LINK_A005D1", "137KincoraRoad");
+    WiFiMulti.addAP("TP-LINK_A005D1", "???????????");
 }
 
 void loop() {
